@@ -1,0 +1,2 @@
+require 'riot'
+require 'chat'
